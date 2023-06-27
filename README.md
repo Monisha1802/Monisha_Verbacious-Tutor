@@ -27,6 +27,8 @@ Smart Device to support Disabilities using Speech and Sign Language Conversion
 # Architecture diagram
 
 
+![Picture2](https://github.com/Monisha1802/Monisha_Verbacious-Tutor/assets/110017828/8ce8715f-5f6c-492d-bf6c-6fc4f8e141ad)
+
 
  
 
@@ -54,9 +56,13 @@ User feedback: Collecting user feedback can provide valuable insights into the s
 Overall, to ensure the success of your project, it's important to continuously evaluate and analyze the performance of your system and make iterative improvements based on your findings.
 # RESULT
 # Hardware snapshot
+![Picture1](https://github.com/Monisha1802/Monisha_Verbacious-Tutor/assets/110017828/7c34776a-9f04-4dbf-839b-9574788ff9b6)
 
 # Output Snapshot
 # Result 1
+![Picture3](https://github.com/Monisha1802/Monisha_Verbacious-Tutor/assets/110017828/f070502c-519c-4fb2-9ee0-3804a6adfe6f)
 
 
 # Result 2
+![Picture4](https://github.com/Monisha1802/Monisha_Verbacious-Tutor/assets/110017828/0cc00f4f-2ef7-41b3-aa7a-9b5f6086253f)
+
